@@ -1,4 +1,4 @@
-# Project Name
+# Google Cloning
 
 > Description the project.
 
@@ -6,7 +6,7 @@
 ## Built With
 
 - Major languages
-- Frameworks
+- tAILWIND
 - Technologies used
 
 ## Live Demo (if available)
