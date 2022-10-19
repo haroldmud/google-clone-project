@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       fontSize: {
         "15s": "15px",
+        "14s": "14px",
         "8s": "8px",
         "5s": "5px",
       },
@@ -18,6 +19,12 @@ module.exports = {
       width: {
         "32r": "32rem",
         "15r": "15rem",
+      },
+      fontFamily: {
+        sans: "Helvetica, Arial, sans-serif",
+      },
+      borderRadius: {
+        "3s": "3px",
       },
     },
   },
