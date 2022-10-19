@@ -6,7 +6,7 @@
 ## Built With
 
 - Major languages
-- tAILWIND
+- tailwinds
 - Technologies used
 
 ## Live Demo (if available)
